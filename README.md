@@ -1,7 +1,7 @@
 Hi 👋 My name is Zi Yang
 ========================
 
-I am a student in NUS Computer Science
+I was a student in NUS Computer Science!
 
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [zylee348@gmail.com](mailto:zylee348@gmail.com)
