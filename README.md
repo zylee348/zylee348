@@ -18,10 +18,10 @@ I am a student in NUS Computer Science
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 
 
 <a href="https://github.com/zylee348" align="left">
   <img src="github-readme-stats.vercel.app" alt="Top Languages" />
-</a>
+</a> -->
