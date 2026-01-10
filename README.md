@@ -18,10 +18,5 @@ I was a student in NUS Computer Science!
 
 ### Badges
 
-<!-- <b>My GitHub Stats</b>
-
-
-
-<a href="https://github.com/zylee348" align="left">
-  <img src="github-readme-stats.vercel.app" alt="Top Languages" />
-</a> -->
+<<b>My GitHub Stats</b>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zylee348&layout=compact)
